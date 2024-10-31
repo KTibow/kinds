@@ -253,6 +253,14 @@
         ]
     },
     {
+        "kind": "10166",
+        "description": "Relay Monitor",
+        "NIP": [
+            66
+        ],
+        "unmerged": true
+    },
+    {
         "kind": 12165,
         "description": "Coracle Mute Lists",
         "url": "https://github.com/nostr-protocol/nips/pull/183",
@@ -333,8 +341,8 @@
         ]
     },
     {
-        "kind": "30303",
-        "description": "Relay Status",
+        "kind": "30166",
+        "description": "Relay Liveness",
         "NIP": [
             66
         ],
